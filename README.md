@@ -1,1 +1,2 @@
 Aquí encuentras los codigos utilizados en mi trabajo de tesis. El codigo está dividido en varios archivos para facilitar la comprensión. Uno corresponde a los codigos para la generación de graficos, otro para la calibración de modelos, y otro para la estimación del VaR. 
+El archivo "DATOS TESIS" corresponde a la base de datos del IPC obtenida de Banco de México, y el archivo "SPOORS" corresponde a la base de datos correspondiente al índice S$P 500, utilizada para ejemplicar el capitulo 2.
