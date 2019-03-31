@@ -1,2 +1,4 @@
-Aquí encuentras los codigos utilizados en mi trabajo de tesis. El codigo está dividido en varios archivos para facilitar la comprensión. Uno corresponde a los codigos para la generación de graficos, otro para la calibración de modelos, y otro para la estimación del VaR. 
-El archivo "DATOS TESIS" corresponde a la series temporal del IPC obtenida de Banco de México, y el archivo "SPOORS" corresponde a la serie S&P 500, utilizada para ejemplicar el capitulo 2.
+Aquí encuentras los codigos utilizados en mi trabajo de tesis. El codigo está dividido en varios archivos para facilitar la comprensión. Uno corresponde a los codigos para la generación de graficos del capitulo 2, otro para la generación de graficos del capitulo 3, otro para la calibración de modelos, otro para la estimación del VaR de los modelos seleccionados y uno más para la simulación de los modelos seleccionados. 
+El archivo "IPC_BANXICO" corresponde a la serie temporal del IPC obtenida de Banco de México, el archivo "SP_500" corresponde a la serie S&P 500 (datos utilizados para ejemplificar el capitulo 2), y por último el archivo "MS_SIM" contiene las 10 series simuladas del modelo RSGARCH seleccionado (los datos se almacenaron en un archivo csv pues el paquete MSGARCH ofrece los resultados en formato de lista).
+
+Cualquier duda: act.las1993@gmail.com
